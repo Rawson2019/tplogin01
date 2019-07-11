@@ -1,0 +1,72 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1562665040428" stop="1562665040428">
+  <name>test002</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1562665040428" status="passed" stop="1562665040428">
+      <name>Test002.test001</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="8164-MainThread"/>
+        <label name="host" value="mytools"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1562665040428" status="passed" stop="1562665040428">
+          <name>正在执行登录操作</name>
+          <title>正在执行登录操作</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1562665040428" status="passed" stop="1562665040428">
+      <name>Test002.test002</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="8164-MainThread"/>
+        <label name="host" value="mytools"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1562665040428" status="passed" stop="1562665040428">
+          <name>正在执行数据传输</name>
+          <title>正在执行数据传输</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1562665040428" status="passed" stop="1562665040428">
+      <name>Test002.test003</name>
+      <attachments>
+        <attachment source="e9f8068a-ea28-4353-9e87-cfd42328723c-attachment.txt" title="描述" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="8164-MainThread"/>
+        <label name="host" value="mytools"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1562665040428" status="passed" stop="1562665040428">
+      <name>Test002.test004</name>
+      <attachments>
+        <attachment source="ddf25ab1-d9d3-4523-9076-937635523068-attachment.png" title="描述" type="image/png"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="blocker"/>
+        <label name="thread" value="8164-MainThread"/>
+        <label name="host" value="mytools"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>
